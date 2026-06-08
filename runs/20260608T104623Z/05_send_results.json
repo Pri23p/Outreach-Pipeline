@@ -1,0 +1,50 @@
+[
+  {
+    "recipient": "apoorv.kakar@razorpay.com",
+    "success": true,
+    "messageId": "<202606081046.50588233594@smtp-relay.mailin.fr>",
+    "error": null
+  },
+  {
+    "recipient": "vivek.agarwal@razorpay.com",
+    "success": true,
+    "messageId": "<202606081046.14965444749@smtp-relay.mailin.fr>",
+    "error": null
+  },
+  {
+    "recipient": "parveen.kumar@cashfree.com",
+    "success": true,
+    "messageId": "<202606081046.27096820502@smtp-relay.mailin.fr>",
+    "error": null
+  },
+  {
+    "recipient": "nitin.pulyani@cashfree.com",
+    "success": true,
+    "messageId": "<202606081046.81555269861@smtp-relay.mailin.fr>",
+    "error": null
+  },
+  {
+    "recipient": "mahan.shahi@adyen.com",
+    "success": true,
+    "messageId": "<202606081046.34717017237@smtp-relay.mailin.fr>",
+    "error": null
+  },
+  {
+    "recipient": "hiukwan.tam@adyen.com",
+    "success": true,
+    "messageId": "<202606081046.72390969984@smtp-relay.mailin.fr>",
+    "error": null
+  },
+  {
+    "recipient": "harels@rapyd.net",
+    "success": true,
+    "messageId": "<202606081046.46093177724@smtp-relay.mailin.fr>",
+    "error": null
+  },
+  {
+    "recipient": "williamn@rapyd.net",
+    "success": true,
+    "messageId": "<202606081046.53300095066@smtp-relay.mailin.fr>",
+    "error": null
+  }
+]

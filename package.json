@@ -1,0 +1,16 @@
+{
+  "name": "vocallabs-outreach-pipeline",
+  "version": "0.1.0",
+  "description": "Automated outreach pipeline for Ocean.io, Prospeo, Eazyreach, and Brevo.",
+  "type": "module",
+  "bin": {
+    "outreach-pipeline": "./src/cli.js"
+  },
+  "scripts": {
+    "start": "node ./src/cli.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

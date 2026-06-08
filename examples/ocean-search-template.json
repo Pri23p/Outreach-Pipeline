@@ -1,0 +1,7 @@
+{
+  "size": "{{limit}}",
+  "companiesFilters": {
+    "lookalikeDomains": ["{{seed_domain}}"]
+  },
+  "fields": ["domain", "name", "description", "primaryCountry", "companySize", "industries", "technologies"]
+}

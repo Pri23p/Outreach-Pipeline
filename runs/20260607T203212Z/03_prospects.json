@@ -1,0 +1,1495 @@
+[
+  {
+    "company": {
+      "domain": "razorpay.com",
+      "name": "Razorpay",
+      "description": "Power your finance, grow your business. Razorpay is India’s first full-stack financial solutions company. We are on a mission to enhance the payment experience of over 300 million end consumers. And in doing so, we aim to enable Indian businesses - big and small - accept payments digitally with minimal effort and maximum ease. Razorpay has grown from being a payment gateway provider to a solutions-driven organization boasting of an extensive products suite to accept and disburse payments as well as raise capital and park money. In a nutshell, we fit into every nook and corner where your business touches money. #OutgrowOrdinary We identify ourselves as disruptors in the digital payments space and our vision is to power the financial ecosystem for other disruptors. Like attracts like and Razorpay actively looks to partner with established companies and startups that have either broken the glass ceiling in their industry or are set to. The Razorpay Product Suite today comprises verticals, along with Payment Gateway, like Payment Links, Payment Pages, Subscriptions, Smart Collect, Route, Razorpay Capital, RazorpayX, Payroll and Thirdwatch. Razorpay was started in 2014 by two IIT Roorkee alumni, Harshil Mathur and Shashank Kumar. Just a short few years later, Razorpay has evolved into a 800-odd strong organization with some of the best talents in the country helping some of the best companies manage their money movement seamlessly. Certified cool We are a bunch of spirited, ambitious and fun folks. And no, we’re not saying this ourselves--leading institutions have recognized Razorpay for the high trust and high-performance culture that we maintain. Our strength lies in the people we are and we go to great lengths to nurture a family of coders, designers, sellers, marketers, analysts, writers, runners, photographers, gamers, tinkerers, and above all, people who are dreamers and doers at the same time. Be a part of our exciting journey.",
+      "primaryCountry": "in",
+      "companySize": "1001-5000",
+      "industries": [
+        "FinTech",
+        "Financial Services",
+        "Mobile Payments",
+        "Payments",
+        "Transaction Processing",
+        "Credit Cards"
+      ],
+      "technologies": [
+        "Google Tag Manager",
+        "React",
+        "Amplitude",
+        "Segment",
+        "Microsoft Clarity",
+        "web-vitals",
+        "Priority Hints",
+        "Quora Pixel",
+        "CleverTap",
+        "Framer Sites",
+        "YouTube",
+        "Linkedin Insight Tag",
+        "Sentry",
+        "Prototype",
+        "Criteo",
+        "Amazon Web Services",
+        "Google Analytics",
+        "HSTS",
+        "HTTP/2",
+        "reCAPTCHA",
+        "Amazon CloudFront",
+        "Google Font API",
+        "Razorpay",
+        "styled-components",
+        "Loadable-Components",
+        "WooCommerce",
+        "Facebook Pixel"
+      ],
+      "raw": {
+        "domain": "razorpay.com",
+        "primaryCountry": "in",
+        "companySize": "1001-5000",
+        "industries": [
+          "FinTech",
+          "Financial Services",
+          "Mobile Payments",
+          "Payments",
+          "Transaction Processing",
+          "Credit Cards"
+        ],
+        "description": "Power your finance, grow your business. Razorpay is India’s first full-stack financial solutions company. We are on a mission to enhance the payment experience of over 300 million end consumers. And in doing so, we aim to enable Indian businesses - big and small - accept payments digitally with minimal effort and maximum ease. Razorpay has grown from being a payment gateway provider to a solutions-driven organization boasting of an extensive products suite to accept and disburse payments as well as raise capital and park money. In a nutshell, we fit into every nook and corner where your business touches money. #OutgrowOrdinary We identify ourselves as disruptors in the digital payments space and our vision is to power the financial ecosystem for other disruptors. Like attracts like and Razorpay actively looks to partner with established companies and startups that have either broken the glass ceiling in their industry or are set to. The Razorpay Product Suite today comprises verticals, along with Payment Gateway, like Payment Links, Payment Pages, Subscriptions, Smart Collect, Route, Razorpay Capital, RazorpayX, Payroll and Thirdwatch. Razorpay was started in 2014 by two IIT Roorkee alumni, Harshil Mathur and Shashank Kumar. Just a short few years later, Razorpay has evolved into a 800-odd strong organization with some of the best talents in the country helping some of the best companies manage their money movement seamlessly. Certified cool We are a bunch of spirited, ambitious and fun folks. And no, we’re not saying this ourselves--leading institutions have recognized Razorpay for the high trust and high-performance culture that we maintain. Our strength lies in the people we are and we go to great lengths to nurture a family of coders, designers, sellers, marketers, analysts, writers, runners, photographers, gamers, tinkerers, and above all, people who are dreamers and doers at the same time. Be a part of our exciting journey.",
+        "technologies": [
+          "Google Tag Manager",
+          "React",
+          "Amplitude",
+          "Segment",
+          "Microsoft Clarity",
+          "web-vitals",
+          "Priority Hints",
+          "Quora Pixel",
+          "CleverTap",
+          "Framer Sites",
+          "YouTube",
+          "Linkedin Insight Tag",
+          "Sentry",
+          "Prototype",
+          "Criteo",
+          "Amazon Web Services",
+          "Google Analytics",
+          "HSTS",
+          "HTTP/2",
+          "reCAPTCHA",
+          "Amazon CloudFront",
+          "Google Font API",
+          "Razorpay",
+          "styled-components",
+          "Loadable-Components",
+          "WooCommerce",
+          "Facebook Pixel"
+        ],
+        "name": "Razorpay"
+      }
+    },
+    "contact": {
+      "companyDomain": "razorpay.com",
+      "companyName": "Razorpay",
+      "personId": "aaaadcc876516190690c25c6",
+      "fullName": "Apoorv Kakar",
+      "firstName": "Apoorv",
+      "lastName": "Kakar",
+      "title": "USA Founding Team: GTM Associate",
+      "seniority": "Founder/Owner",
+      "linkedinUrl": "https://www.linkedin.com/in/apoorv-kakar-034100257",
+      "raw": {
+        "person": {
+          "person_id": "aaaadcc876516190690c25c6",
+          "first_name": "Apoorv",
+          "last_name": "Kakar",
+          "full_name": "Apoorv Kakar",
+          "linkedin_url": "https://www.linkedin.com/in/apoorv-kakar-034100257",
+          "current_job_title": "USA Founding Team: GTM Associate",
+          "current_job_key": null,
+          "headline": "GTM @Razorpay | Ex - Siemens | Founder - Slash Experiences | BITS Pilani",
+          "linkedin_member_id": null,
+          "last_job_change_detected_at": null,
+          "job_history": [
+            {
+              "title": "USA Founding Team: GTM Associate",
+              "company_name": "Razorpay",
+              "logo_url": "53a94264-6a84-46cf-9db5-a4739df542a6.jpg",
+              "current": true,
+              "start_year": 2025,
+              "start_month": 6,
+              "end_year": null,
+              "end_month": null,
+              "duration_in_months": 12,
+              "departments": [
+                "Product Marketing"
+              ],
+              "seniority": "Founder/Owner",
+              "company_id": "cccc682ebeec6fc7c4f779d3",
+              "job_key": "28737324"
+            },
+            {
+              "title": "Founder",
+              "company_name": "Stealth Startup",
+              "logo_url": "322fdf38-361e-4d75-bb1b-87296c82d71f.jpg",
+              "current": true,
+              "start_year": 2024,
+              "start_month": 6,
+              "end_year": null,
+              "end_month": null,
+              "duration_in_months": 24,
+              "departments": [
+                "Founder"
+              ],
+              "seniority": "Founder/Owner",
+              "company_id": "cccc0a079c525be5d320997b",
+              "job_key": "57375149"
+            },
+            {
+              "title": "Research And Development",
+              "company_name": "Siemens",
+              "logo_url": "053f224d-2a0a-4aa7-9e9f-42c3831e9506.jpg",
+              "current": false,
+              "start_year": 2023,
+              "start_month": 7,
+              "end_year": 2023,
+              "end_month": 8,
+              "duration_in_months": 1,
+              "departments": [
+                "Research & Development"
+              ],
+              "seniority": "Entry",
+              "company_id": "ccccfa3f8940d3241ed930d7",
+              "job_key": "55848237"
+            },
+            {
+              "title": "Core Team Member, Department of Paper Evaluation and Presentation",
+              "company_name": "APOGEE, BITS Pilani",
+              "logo_url": "8811ac57-5567-40e2-bbce-950aa74f04d1.jpg",
+              "current": false,
+              "start_year": 2023,
+              "start_month": 3,
+              "end_year": 2024,
+              "end_month": 12,
+              "duration_in_months": 21,
+              "departments": [],
+              "seniority": "Entry",
+              "company_id": "ccccf7c4d61b3cea80f5c21a",
+              "job_key": "91190230"
+            }
+          ],
+          "mobile": {
+            "status": "VERIFIED",
+            "revealed": false,
+            "mobile": "+91 8076* *****",
+            "mobile_national": "08076* *****",
+            "mobile_international": "+91 8076* *****",
+            "mobile_country": "India",
+            "mobile_country_code": "IN"
+          },
+          "email": {
+            "status": "VERIFIED",
+            "revealed": false,
+            "email": "a*****@razorpay.com",
+            "verification_method": "SMTP",
+            "email_mx_provider": "Google"
+          },
+          "location": {
+            "country": "India",
+            "country_code": "IN",
+            "state": "Karnataka",
+            "city": "Bengaluru North",
+            "time_zone": "Asia/Calcutta",
+            "time_zone_offset": 5.5
+          },
+          "skills": []
+        },
+        "company": {
+          "company_id": "cccc682ebeec6fc7c4f779d3",
+          "name": "Razorpay",
+          "website": "https://razorpay.com",
+          "domain": "razorpay.com",
+          "other_websites": [],
+          "description": "Power your finance, grow your business.\nRazorpay is India’s first full-stack financial solutions company. We are on a mission to enhance the payment experience of over 300 million end consumers. And in doing so, we aim to enable Indian businesses - big and small - accept payments digitally with minimal effort and maximum ease. \n\nRazorpay has grown from being a payment gateway provider to a solutions-driven organization boasting of an extensive products suite to accept and disburse payments as well as raise capital and park money. In a nutshell, we fit into every nook and corner where your business touches money. \n\n#OutgrowOrdinary\nWe identify ourselves as disruptors in the digital payments space and our vision is to power the financial ecosystem for other disruptors. Like attracts like and Razorpay actively looks to partner with established companies and startups that have either broken the glass ceiling in their industry or are set to. \n\nThe Razorpay Product Suite today comprises verticals, along with Payment Gateway, like Payment Links, Payment Pages, Subscriptions, Smart Collect, Route, Razorpay Capital, RazorpayX, Payroll and Thirdwatch.\n\nRazorpay was started in 2014 by two IIT Roorkee alumni, Harshil Mathur and Shashank Kumar. Just a short few years later, Razorpay has evolved into a 800-odd strong organization with some of the best talents in the country helping some of the best companies manage their money movement seamlessly.\n\nCertified cool\nWe are a bunch of spirited, ambitious and fun folks. And no, we’re not saying this ourselves--leading institutions have recognized Razorpay for the high trust and high-performance culture that we maintain. \n\nOur strength lies in the people we are and we go to great lengths to nurture a family of coders, designers, sellers, marketers, analysts, writers, runners, photographers, gamers, tinkerers, and above all, people who are dreamers and doers at the same time. Be a part of our exciting journey.",
+          "description_seo": "Online Payments India: Start Accepting Payments Instantly with Razorpay's Payment suite, which Supports Netbanking, Credit card & Debit Cards, UPI, etc.",
+          "description_ai": "Razorpay is a payment solution provider for online payments in India. They offer a payment gateway, payment links, payment buttons, qr codes, instant settlement, invoices, subscriptions, international payments, and more. They also provide partner apps and app store services for businesses. Razorpay aims to help businesses accept payments quickly and efficiently.",
+          "type": "Private",
+          "industry": "Software Development",
+          "employee_count": 4079,
+          "employee_count_on_prospeo": 3532,
+          "employee_range": "2001-5000",
+          "location": {
+            "country": "India",
+            "country_code": "IN",
+            "state": "Karnataka",
+            "city": "Bengaluru South",
+            "raw_address": "1st Floor, SJR Cyber, 22 Laskar Hosur Road, Adugodi, Bangalore, Karnataka 560030, IN"
+          },
+          "sic_codes": [],
+          "naics_codes": [],
+          "email_tech": {
+            "domain": "razorpay.com",
+            "mx_provider": "Google"
+          },
+          "linkedin_url": "https://www.linkedin.com/company/razorpay",
+          "twitter_url": "https://x.com/razorpay",
+          "facebook_url": "https://www.facebook.com/razorpay",
+          "crunchbase_url": "https://www.crunchbase.com/organization/razorpay",
+          "instagram_url": "https://www.instagram.com/razorpay",
+          "youtube_url": "https://www.youtube.com/c/@razorpayindia",
+          "phone_hq": {
+            "phone_hq": "+918046669555",
+            "phone_hq_national": "080 4666 9555",
+            "phone_hq_international": "+918046669555",
+            "phone_hq_country": "India",
+            "phone_hq_country_code": "IN"
+          },
+          "linkedin_id": null,
+          "founded": null,
+          "revenue_range": {
+            "min": 100000000,
+            "max": 250000000
+          },
+          "revenue_range_printed": "100M",
+          "keywords": [
+            "Working Capital Loans",
+            "Banking Services",
+            "Payment Processing",
+            "Payroll Processing",
+            "Financial Products",
+            "Neobanking",
+            "E-Commerce Fraud Detection",
+            "Payout Processing"
+          ],
+          "logo_url": "https://prospeo-static-assets.s3.us-east-1.amazonaws.com/company_logo/53a94264-6a84-46cf-9db5-a4739df542a6.jpg",
+          "attributes": {
+            "is_b2b": false,
+            "has_demo": false,
+            "has_free_trial": false,
+            "has_downloadable": false,
+            "has_mobile_apps": false,
+            "has_online_reviews": false,
+            "has_pricing": true
+          },
+          "funding": {
+            "count": 1,
+            "total_funding": 74800000,
+            "total_funding_printed": "$74.8M",
+            "latest_funding_date": "2022-06-10T00:00:00",
+            "latest_funding_stage": "Secondary market",
+            "funding_events": [
+              {
+                "amount": 74800000,
+                "amount_printed": "$74,800,000",
+                "raised_at": "2022-06-10T00:00:00",
+                "stage": "Secondary market",
+                "link": "https://www.crunchbase.com/funding_round/razorpay-secondary-market--bc7602c8"
+              }
+            ]
+          },
+          "technology": {
+            "count": 68,
+            "technology_names": [
+              "Segment",
+              "jQuery CDN",
+              "Reddit Ads",
+              "Criteo",
+              "reCAPTCHA",
+              "Redux",
+              "Prism",
+              "Goober",
+              "Hotjar",
+              "Module Federation",
+              "Zendesk",
+              "jQuery Migrate",
+              "Cloudflare",
+              "Twitter Ads",
+              "jQuery",
+              "HubSpot Analytics",
+              "Google Ads",
+              "Apple iCloud Mail",
+              "Radix UI",
+              "PHP",
+              "HSTS",
+              "Microsoft Advertising",
+              "WordPress",
+              "Kinsta",
+              "Zoho",
+              "RankMath SEO",
+              "Google Analytics",
+              "YouTube",
+              "Chakra UI",
+              "AdRoll CMP System",
+              "Refiner",
+              "styled-components",
+              "Linkedin Insight Tag",
+              "PayPal",
+              "Emotion",
+              "Salesforce",
+              "Microsoft Clarity",
+              "Priority Hints",
+              "Sentry",
+              "Gravatar",
+              "Google Workspace",
+              "Google Tag Manager",
+              "Linkedin Ads",
+              "Amazon Web Services",
+              "Lightbox",
+              "Facebook Pixel",
+              "React",
+              "HubSpot",
+              "core-js",
+              "AWS Certificate Manager",
+              "HubSpot Chat",
+              "jsDelivr",
+              "RSS",
+              "Google Font API",
+              "Font Awesome",
+              "Open Graph",
+              "Amazon CloudFront",
+              "Google Ads Conversion Tracking",
+              "LottieFiles",
+              "AdRoll",
+              "web-vitals",
+              "Razorpay",
+              "Cart Functionality",
+              "MySQL",
+              "Loadable-Components",
+              "Webpack",
+              "Mailgun",
+              "Framer Sites"
+            ],
+            "technology_list": [
+              {
+                "name": "Segment",
+                "category": "Customer data platform"
+              },
+              {
+                "name": "jQuery CDN",
+                "category": "CDN"
+              },
+              {
+                "name": "Reddit Ads",
+                "category": "Advertising"
+              },
+              {
+                "name": "Criteo",
+                "category": "Advertising"
+              },
+              {
+                "name": "reCAPTCHA",
+                "category": "Security"
+              },
+              {
+                "name": "Redux",
+                "category": "JavaScript frameworks"
+              },
+              {
+                "name": "Prism",
+                "category": "Miscellaneous"
+              },
+              {
+                "name": "Goober",
+                "category": "JavaScript libraries"
+              },
+              {
+                "name": "Hotjar",
+                "category": "Analytics"
+              },
+              {
+                "name": "Module Federation",
+                "category": "Miscellaneous"
+              },
+              {
+                "name": "Zendesk",
+                "category": "Documentation"
+              },
+              {
+                "name": "jQuery Migrate",
+                "category": "JavaScript libraries"
+              },
+              {
+                "name": "Cloudflare",
+                "category": "CDN"
+              },
+              {
+                "name": "Twitter Ads",
+                "category": "Advertising"
+              },
+              {
+                "name": "jQuery",
+                "category": "JavaScript libraries"
+              },
+              {
+                "name": "HubSpot Analytics",
+                "category": "Analytics"
+              },
+              {
+                "name": "Google Ads",
+                "category": "Advertising"
+              },
+              {
+                "name": "Apple iCloud Mail",
+                "category": "Webmail"
+              },
+              {
+                "name": "Radix UI",
+                "category": "UI frameworks"
+              },
+              {
+                "name": "PHP",
+                "category": "Programming languages"
+              },
+              {
+                "name": "HSTS",
+                "category": "Security"
+              },
+              {
+                "name": "Microsoft Advertising",
+                "category": "Advertising"
+              },
+              {
+                "name": "WordPress",
+                "category": "Blogs"
+              },
+              {
+                "name": "Kinsta",
+                "category": "Hosting"
+              },
+              {
+                "name": "Zoho",
+                "category": "CRM"
+              },
+              {
+                "name": "RankMath SEO",
+                "category": "SEO"
+              },
+              {
+                "name": "Google Analytics",
+                "category": "Analytics"
+              },
+              {
+                "name": "YouTube",
+                "category": "Video players"
+              },
+              {
+                "name": "Chakra UI",
+                "category": "UI frameworks"
+              },
+              {
+                "name": "AdRoll CMP System",
+                "category": "Cookie compliance"
+              },
+              {
+                "name": "Refiner",
+                "category": "Surveys"
+              },
+              {
+                "name": "styled-components",
+                "category": "Development"
+              },
+              {
+                "name": "Linkedin Insight Tag",
+                "category": "Analytics"
+              },
+              {
+                "name": "PayPal",
+                "category": "Payment processors"
+              },
+              {
+                "name": "Emotion",
+                "category": "Development"
+              },
+              {
+                "name": "Salesforce",
+                "category": "CRM"
+              },
+              {
+                "name": "Microsoft Clarity",
+                "category": "Analytics"
+              },
+              {
+                "name": "Priority Hints",
+                "category": "Performance"
+              },
+              {
+                "name": "Sentry",
+                "category": "Issue trackers"
+              },
+              {
+                "name": "Gravatar",
+                "category": "Miscellaneous"
+              },
+              {
+                "name": "Google Workspace",
+                "category": "Email"
+              },
+              {
+                "name": "Google Tag Manager",
+                "category": "Tag managers"
+              },
+              {
+                "name": "Linkedin Ads",
+                "category": "Advertising"
+              },
+              {
+                "name": "Amazon Web Services",
+                "category": "PaaS"
+              },
+              {
+                "name": "Lightbox",
+                "category": "JavaScript libraries"
+              },
+              {
+                "name": "Facebook Pixel",
+                "category": "Analytics"
+              },
+              {
+                "name": "React",
+                "category": "JavaScript frameworks"
+              },
+              {
+                "name": "HubSpot",
+                "category": "Marketing automation"
+              },
+              {
+                "name": "core-js",
+                "category": "JavaScript libraries"
+              },
+              {
+                "name": "AWS Certificate Manager",
+                "category": "SSL/TLS certificate authorities"
+              },
+              {
+                "name": "HubSpot Chat",
+                "category": "Live chat"
+              },
+              {
+                "name": "jsDelivr",
+                "category": "CDN"
+              },
+              {
+                "name": "RSS",
+                "category": "Miscellaneous"
+              },
+              {
+                "name": "Google Font API",
+                "category": "Font scripts"
+              },
+              {
+                "name": "Font Awesome",
+                "category": "Font scripts"
+              },
+              {
+                "name": "Open Graph",
+                "category": "Miscellaneous"
+              },
+              {
+                "name": "Amazon CloudFront",
+                "category": "CDN"
+              },
+              {
+                "name": "Google Ads Conversion Tracking",
+                "category": "Analytics"
+              },
+              {
+                "name": "LottieFiles",
+                "category": "Miscellaneous"
+              },
+              {
+                "name": "AdRoll",
+                "category": "Advertising"
+              },
+              {
+                "name": "web-vitals",
+                "category": "JavaScript libraries"
+              },
+              {
+                "name": "Razorpay",
+                "category": "Payment processors"
+              },
+              {
+                "name": "Cart Functionality",
+                "category": "Ecommerce"
+              },
+              {
+                "name": "MySQL",
+                "category": "Databases"
+              },
+              {
+                "name": "Loadable-Components",
+                "category": "JavaScript libraries"
+              },
+              {
+                "name": "Webpack",
+                "category": "Miscellaneous"
+              },
+              {
+                "name": "Mailgun",
+                "category": "Email"
+              },
+              {
+                "name": "Framer Sites",
+                "category": "Page builders"
+              }
+            ]
+          },
+          "job_postings": {
+            "active_count": 41,
+            "active_titles": [
+              "senior associate - enterprise sales (neobank)",
+              "manager, business finance",
+              "senior product manager",
+              "software development engineer in test",
+              "manager - banking alliances",
+              "senior manager - banking alliances",
+              "assistant manager finance",
+              "staff product manager - growth",
+              "senior database administrator",
+              "senior product manager - ui/ux",
+              "manager - banking alliances",
+              "associate technical program manager",
+              "senior communication designer",
+              "senior manager - banking alliances",
+              "senior database administrator",
+              "executive, finance",
+              "senior devops engineer",
+              "lead data engineer",
+              "executive - finance",
+              "associate manager, partnership operations",
+              "assistant manager finance",
+              "intern - technical program manager",
+              "lead compliance engineer (privacy specialist)",
+              "associate manager - cross border",
+              "staff software development engineer",
+              "manager - group compliance",
+              "senior consultant, corporate strategy",
+              "associate manager - enterprise sales (neobank)",
+              "principal engineer i",
+              "full-stack ai pm",
+              "shopify developer",
+              "shopify developer",
+              "senior product manager",
+              "assistant manager, vigilance",
+              "staff product manager - ux/design",
+              "senior communication designer (motion)",
+              "associate manager - enterprise sales (neobank)",
+              "product manager ii - growth",
+              "lead product designer",
+              "associate manager, cross border",
+              "lead compliance engineer"
+            ]
+          }
+        }
+      }
+    },
+    "resolvedEmail": {
+      "email": "apoorv.kakar@razorpay.com",
+      "verification": "mocked",
+      "source": "fallback"
+    }
+  },
+  {
+    "company": {
+      "domain": "cashfree.com",
+      "name": "Cashfree Payments",
+      "description": "At Cashfree Payments, we’re not just shaping the future of payments - we’re moving fast to help scale businesses of all sizes at different stages of their growth journeys. Founded in 2015, we process transactions worth $80B annually and are trusted by more than 800,000 businesses. Authorised by the Reserve Bank of India, we are one of the first entities to receive critical licences like PA-PG, PA-CB and PPI in the sector. We enable seamless collections, payouts, identity verification, and fraud detection. We are backed by Silicon Valley investor Y Combinator, Apis Partners, KRAFTON Inc, State Bank of India (SBI), and were incubated by PayPal.",
+      "primaryCountry": "in",
+      "companySize": "501-1000",
+      "industries": [
+        "FinTech",
+        "Financial Services",
+        "Mobile Payments",
+        "Payments",
+        "Transaction Processing"
+      ],
+      "technologies": [
+        "Google Tag Manager",
+        "Shopify",
+        "PrestaShop",
+        "PayPal",
+        "Svelte",
+        "SvelteKit",
+        "Cart Functionality",
+        "WHMCS",
+        "Priority Hints",
+        "Gatsby",
+        "MySQL",
+        "Linkedin Insight Tag",
+        "cdnjs",
+        "KaTeX",
+        "HSTS",
+        "Amazon CloudFront",
+        "Bootstrap",
+        "RequireJS",
+        "Amazon Pay",
+        "Emotion",
+        "Amazon S3",
+        "Amazon Web Services",
+        "Branch",
+        "VWO",
+        "React Bricks",
+        "Microsoft Advertising",
+        "Vite",
+        "Microsoft Clarity",
+        "Webpack",
+        "Animate.css",
+        "Next.js",
+        "Vercel",
+        "Quora Pixel",
+        "Highlight.js",
+        "Framer Sites",
+        "YouTube",
+        "WooCommerce",
+        "RSS",
+        "Node.js",
+        "PHP",
+        "Criteo",
+        "Google Analytics",
+        "Cloudflare",
+        "Cloudflare Browser Insights",
+        "Apple Pay",
+        "Wistia",
+        "jsDelivr",
+        "Google Font API",
+        "Razorpay",
+        "PostHog",
+        "Twitter Ads",
+        "React",
+        "Facebook Pixel"
+      ],
+      "raw": {
+        "domain": "cashfree.com",
+        "primaryCountry": "in",
+        "companySize": "501-1000",
+        "industries": [
+          "FinTech",
+          "Financial Services",
+          "Mobile Payments",
+          "Payments",
+          "Transaction Processing"
+        ],
+        "description": "At Cashfree Payments, we’re not just shaping the future of payments - we’re moving fast to help scale businesses of all sizes at different stages of their growth journeys. Founded in 2015, we process transactions worth $80B annually and are trusted by more than 800,000 businesses. Authorised by the Reserve Bank of India, we are one of the first entities to receive critical licences like PA-PG, PA-CB and PPI in the sector. We enable seamless collections, payouts, identity verification, and fraud detection. We are backed by Silicon Valley investor Y Combinator, Apis Partners, KRAFTON Inc, State Bank of India (SBI), and were incubated by PayPal.",
+        "technologies": [
+          "Google Tag Manager",
+          "Shopify",
+          "PrestaShop",
+          "PayPal",
+          "Svelte",
+          "SvelteKit",
+          "Cart Functionality",
+          "WHMCS",
+          "Priority Hints",
+          "Gatsby",
+          "MySQL",
+          "Linkedin Insight Tag",
+          "cdnjs",
+          "KaTeX",
+          "HSTS",
+          "Amazon CloudFront",
+          "Bootstrap",
+          "RequireJS",
+          "Amazon Pay",
+          "Emotion",
+          "Amazon S3",
+          "Amazon Web Services",
+          "Branch",
+          "VWO",
+          "React Bricks",
+          "Microsoft Advertising",
+          "Vite",
+          "Microsoft Clarity",
+          "Webpack",
+          "Animate.css",
+          "Next.js",
+          "Vercel",
+          "Quora Pixel",
+          "Highlight.js",
+          "Framer Sites",
+          "YouTube",
+          "WooCommerce",
+          "RSS",
+          "Node.js",
+          "PHP",
+          "Criteo",
+          "Google Analytics",
+          "Cloudflare",
+          "Cloudflare Browser Insights",
+          "Apple Pay",
+          "Wistia",
+          "jsDelivr",
+          "Google Font API",
+          "Razorpay",
+          "PostHog",
+          "Twitter Ads",
+          "React",
+          "Facebook Pixel"
+        ],
+        "name": "Cashfree Payments"
+      }
+    },
+    "contact": {
+      "companyDomain": "cashfree.com",
+      "companyName": "Cashfree Payments",
+      "personId": "aaaa75ec007adfb6ffd160e6",
+      "fullName": "Parveen Kumar",
+      "firstName": "Parveen",
+      "lastName": "Kumar",
+      "title": "Senior Vice President",
+      "seniority": "Vice President",
+      "linkedinUrl": "https://www.linkedin.com/in/parveen-kumar-88b82216",
+      "raw": {
+        "person": {
+          "person_id": "aaaa75ec007adfb6ffd160e6",
+          "first_name": "Parveen",
+          "last_name": "Kumar",
+          "full_name": "Parveen Kumar",
+          "linkedin_url": "https://www.linkedin.com/in/parveen-kumar-88b82216",
+          "current_job_title": "Senior Vice President",
+          "current_job_key": null,
+          "headline": "SVP| Head of Operations and Customer Experience| Payments | Insurtech | Fintech | IIMA | IITKGP",
+          "linkedin_member_id": null,
+          "last_job_change_detected_at": null,
+          "job_history": [
+            {
+              "title": "Senior Vice President",
+              "company_name": "Cashfree Payments",
+              "logo_url": "2c53d42d-0c00-4a97-a0c9-91f5ddfafbaa.jpg",
+              "current": true,
+              "start_year": 2025,
+              "start_month": 4,
+              "end_year": null,
+              "end_month": null,
+              "duration_in_months": 14,
+              "departments": [],
+              "seniority": "Vice President",
+              "company_id": "cccc3dc67a627dc2d49b68bc",
+              "job_key": "40193913"
+            },
+            {
+              "title": "Vice President",
+              "company_name": "Cashfree Payments",
+              "logo_url": "2c53d42d-0c00-4a97-a0c9-91f5ddfafbaa.jpg",
+              "current": false,
+              "start_year": 2023,
+              "start_month": 6,
+              "end_year": 2025,
+              "end_month": 5,
+              "duration_in_months": 23,
+              "departments": [],
+              "seniority": "Vice President",
+              "company_id": "cccc3dc67a627dc2d49b68bc",
+              "job_key": "58957269"
+            },
+            {
+              "title": "Director Of Operations",
+              "company_name": "Altisource",
+              "logo_url": "1eaa3132-e5a3-4035-a093-9ead3de91952.jpg",
+              "current": false,
+              "start_year": 2017,
+              "start_month": 3,
+              "end_year": 2019,
+              "end_month": 5,
+              "duration_in_months": 26,
+              "departments": [],
+              "seniority": "Director",
+              "company_id": "cccc987bdc6fd2a219f00dd2",
+              "job_key": "99432678"
+            },
+            {
+              "title": "Head Of Operations, West Region",
+              "company_name": "Zoomcar",
+              "logo_url": "987ee30e-2a19-4c02-8907-519b78b99988.jpg",
+              "current": false,
+              "start_year": 2015,
+              "start_month": 10,
+              "end_year": 2017,
+              "end_month": 3,
+              "duration_in_months": 17,
+              "departments": [],
+              "seniority": "Head",
+              "company_id": "ccccd70bd83b39a4236343ab",
+              "job_key": "19736079"
+            },
+            {
+              "title": "Senior Business Operations Manager",
+              "company_name": "Altisource",
+              "logo_url": "1eaa3132-e5a3-4035-a093-9ead3de91952.jpg",
+              "current": false,
+              "start_year": 2012,
+              "start_month": 9,
+              "end_year": 2015,
+              "end_month": 10,
+              "duration_in_months": 37,
+              "departments": [
+                "Sales Operations"
+              ],
+              "seniority": "Manager",
+              "company_id": "cccc987bdc6fd2a219f00dd2",
+              "job_key": "58473062"
+            },
+            {
+              "title": "Product Manager, Aviation Insurance",
+              "company_name": "ICICI Lombard",
+              "logo_url": "7520e745-8213-4968-a0d5-8f4566142b2c.jpg",
+              "current": false,
+              "start_year": 2007,
+              "start_month": 3,
+              "end_year": 2010,
+              "end_month": 5,
+              "duration_in_months": 38,
+              "departments": [
+                "Product Management"
+              ],
+              "seniority": "Manager",
+              "company_id": "cccc2498e1beaaeecdc06234",
+              "job_key": "41458779"
+            }
+          ],
+          "mobile": {
+            "status": "VERIFIED",
+            "revealed": false,
+            "mobile": "+91 8879* *****",
+            "mobile_national": "08879* *****",
+            "mobile_international": "+91 8879* *****",
+            "mobile_country": "India",
+            "mobile_country_code": "IN"
+          },
+          "email": {
+            "status": "VERIFIED",
+            "revealed": false,
+            "email": "p********@cashfree.com",
+            "verification_method": "SMTP",
+            "email_mx_provider": "Google"
+          },
+          "location": {
+            "country": "India",
+            "country_code": "IN",
+            "state": "Karnataka",
+            "city": "Bengaluru North",
+            "time_zone": "Asia/Calcutta",
+            "time_zone_offset": 5.5
+          },
+          "skills": []
+        },
+        "company": {
+          "company_id": "cccc3dc67a627dc2d49b68bc",
+          "name": "Cashfree Payments",
+          "website": "https://cashfree.com",
+          "domain": "cashfree.com",
+          "other_websites": [],
+          "description": "At Cashfree Payments, we’re not just shaping the future of payments - we’re moving fast to help scale businesses of all sizes at different stages of their growth journeys.\n\nFounded in 2015, we process transactions worth $80B annually and are trusted by more than 800,000 businesses. Authorised by the Reserve Bank of India, we are one of the first entities to receive critical licences like PA-PG, PA-CB and PPI in the sector. We enable seamless collections, payouts, identity verification, and fraud detection.\n\nWe are backed by Silicon Valley investor Y Combinator, Apis Partners, KRAFTON Inc, State Bank of India (SBI), and were incubated by PayPal.",
+          "description_seo": "Built for your business payment needs - Collect payments, send payouts, manage international payments, launch your next neo banking product and do a lot more.",
+          "description_ai": "Cashfree Payments is a complete payment and banking platform for India. It is built for businesses to collect payments, send payouts, manage international payments, launch their next neo banking product, and do more.",
+          "type": "Private",
+          "industry": "Financial Services",
+          "employee_count": 917,
+          "employee_count_on_prospeo": 814,
+          "employee_range": "501-1000",
+          "location": {
+            "country": "India",
+            "country_code": "IN",
+            "state": "Karnataka",
+            "city": "Bengaluru South",
+            "raw_address": "Bangalore, Karnataka 560034, IN"
+          },
+          "sic_codes": [
+            "615"
+          ],
+          "naics_codes": [
+            "52",
+            "521",
+            "5211",
+            "52111",
+            "521110",
+            "92113"
+          ],
+          "email_tech": {
+            "domain": "cashfree.com",
+            "mx_provider": "Google"
+          },
+          "linkedin_url": "https://www.linkedin.com/company/cashfree",
+          "twitter_url": "https://x.com/gocashfree",
+          "facebook_url": "https://www.facebook.com/gocashfree",
+          "crunchbase_url": "https://www.crunchbase.com/organization/cashfree",
+          "instagram_url": "https://www.instagram.com/gocashfree",
+          "youtube_url": null,
+          "phone_hq": {
+            "phone_hq": null,
+            "phone_hq_national": null,
+            "phone_hq_international": null,
+            "phone_hq_country": null,
+            "phone_hq_country_code": null
+          },
+          "linkedin_id": null,
+          "founded": 2015,
+          "revenue_range": {
+            "min": 50000000,
+            "max": 100000000
+          },
+          "revenue_range_printed": "50M",
+          "keywords": [
+            "Payment Gateway",
+            "Technology",
+            "Startups",
+            "Growth",
+            "Innovation",
+            "Entrepreneur",
+            "Fintech",
+            "Payments",
+            "Invoicing",
+            "Online Business",
+            "Internet Banking",
+            "Imps",
+            "Rtgs",
+            "UPI",
+            "Escrow Account",
+            "Api Banking",
+            "Neft",
+            "Payouts",
+            "Y Combinator",
+            "Upi Autopay",
+            "Marketplace Settlements"
+          ],
+          "logo_url": "https://prospeo-static-assets.s3.us-east-1.amazonaws.com/company_logo/2c53d42d-0c00-4a97-a0c9-91f5ddfafbaa.jpg",
+          "attributes": {
+            "is_b2b": true,
+            "has_demo": false,
+            "has_free_trial": false,
+            "has_downloadable": false,
+            "has_mobile_apps": false,
+            "has_online_reviews": false,
+            "has_pricing": true
+          },
+          "funding": {
+            "count": 4,
+            "total_funding": 53000000,
+            "total_funding_printed": "$53.0M",
+            "latest_funding_date": "2025-03-04T00:00:00",
+            "latest_funding_stage": "Series C",
+            "funding_events": [
+              {
+                "amount": null,
+                "amount_printed": null,
+                "raised_at": "2021-07-07T00:00:00",
+                "stage": "Undisclosed",
+                "link": "https://www.crunchbase.com/funding_round/cashfree-undisclosed--3a70ffd6"
+              },
+              {
+                "amount": null,
+                "amount_printed": null,
+                "raised_at": "2021-07-07T00:00:00",
+                "stage": "Debt financing",
+                "link": "https://www.crunchbase.com/funding_round/cashfree-debt-financing--3a70ffd6"
+              },
+              {
+                "amount": null,
+                "amount_printed": null,
+                "raised_at": "2023-06-18T00:00:00",
+                "stage": "Debt financing",
+                "link": "https://www.crunchbase.com/funding_round/cashfree-debt-financing--2ffb45f5"
+              },
+              {
+                "amount": 53000000,
+                "amount_printed": "$53,000,000",
+                "raised_at": "2025-03-04T00:00:00",
+                "stage": "Series C",
+                "link": "https://www.crunchbase.com/funding_round/cashfree-series-c--1b583716"
+              }
+            ]
+          },
+          "technology": {
+            "count": 71,
+            "technology_names": [
+              "Facebook Ads",
+              "jQuery CDN",
+              "Criteo",
+              "Redux",
+              "Jetpack",
+              "Prism",
+              "MySQL",
+              "Emotion",
+              "Node.js",
+              "MoEngage",
+              "Tailwind CSS",
+              "PWA",
+              "Amazon Pay",
+              "Elementor",
+              "jQuery Migrate",
+              "Cloudflare",
+              "Twitter Ads",
+              "Twitter Emoji",
+              "jQuery",
+              "Google Ads",
+              "Redux Framework",
+              "PHP",
+              "HSTS",
+              "Microsoft Advertising",
+              "Highlight.js",
+              "WordPress",
+              "Google Analytics",
+              "YouTube",
+              "Bootstrap",
+              "SvelteKit",
+              "Linkedin Insight Tag",
+              "Ace",
+              "Yoast SEO",
+              "Google Tag Manager for WordPress",
+              "Amazon S3",
+              "Microsoft Clarity",
+              "KaTeX",
+              "Sentry",
+              "PostHog",
+              "Vite",
+              "WordPress.com",
+              "Google Tag Manager",
+              "Nginx",
+              "Lightbox",
+              "Amazon Web Services",
+              "Next.js",
+              "Facebook Pixel",
+              "GSAP",
+              "Lucide",
+              "core-js",
+              "React",
+              "Ubuntu",
+              "cdnjs",
+              "Gatsby",
+              "jsDelivr",
+              "Svelte",
+              "Mintlify",
+              "Google Font API",
+              "Vercel",
+              "RSS",
+              "PayPal",
+              "Lodash",
+              "Contact Form 7",
+              "Font Awesome",
+              "Open Graph",
+              "Amazon CloudFront",
+              "Webpack",
+              "Cart Functionality",
+              "Quora Pixel",
+              "LazySizes",
+              "Priority Hints"
+            ],
+            "technology_list": [
+              {
+                "name": "Facebook Ads",
+                "category": "Advertising"
+              },
+              {
+                "name": "jQuery CDN",
+                "category": "CDN"
+              },
+              {
+                "name": "Criteo",
+                "category": "Advertising"
+              },
+              {
+                "name": "Redux",
+                "category": "JavaScript frameworks"
+              },
+              {
+                "name": "Jetpack",
+                "category": "WordPress plugins"
+              },
+              {
+                "name": "Prism",
+                "category": "Miscellaneous"
+              },
+              {
+                "name": "MySQL",
+                "category": "Databases"
+              },
+              {
+                "name": "Emotion",
+                "category": "Development"
+              },
+              {
+                "name": "Node.js",
+                "category": "Programming languages"
+              },
+              {
+                "name": "MoEngage",
+                "category": "Analytics"
+              },
+              {
+                "name": "Tailwind CSS",
+                "category": "UI frameworks"
+              },
+              {
+                "name": "PWA",
+                "category": "Miscellaneous"
+              },
+              {
+                "name": "Amazon Pay",
+                "category": "Payment processors"
+              },
+              {
+                "name": "Elementor",
+                "category": "Page builders"
+              },
+              {
+                "name": "jQuery Migrate",
+                "category": "JavaScript libraries"
+              },
+              {
+                "name": "Cloudflare",
+                "category": "CDN"
+              },
+              {
+                "name": "Twitter Ads",
+                "category": "Advertising"
+              },
+              {
+                "name": "Twitter Emoji",
+                "category": "Font scripts"
+              },
+              {
+                "name": "jQuery",
+                "category": "JavaScript libraries"
+              },
+              {
+                "name": "Google Ads",
+                "category": "Advertising"
+              },
+              {
+                "name": "Redux Framework",
+                "category": "WordPress plugins"
+              },
+              {
+                "name": "PHP",
+                "category": "Programming languages"
+              },
+              {
+                "name": "HSTS",
+                "category": "Security"
+              },
+              {
+                "name": "Microsoft Advertising",
+                "category": "Advertising"
+              },
+              {
+                "name": "Highlight.js",
+                "category": "JavaScript libraries"
+              },
+              {
+                "name": "WordPress",
+                "category": "Blogs"
+              },
+              {
+                "name": "Google Analytics",
+                "category": "Analytics"
+              },
+              {
+                "name": "YouTube",
+                "category": "Video players"
+              },
+              {
+                "name": "Bootstrap",
+                "category": "UI frameworks"
+              },
+              {
+                "name": "SvelteKit",
+                "category": "UI frameworks"
+              },
+              {
+                "name": "Linkedin Insight Tag",
+                "category": "Analytics"
+              },
+              {
+                "name": "Ace",
+                "category": "Rich text editors"
+              },
+              {
+                "name": "Yoast SEO",
+                "category": "SEO"
+              },
+              {
+                "name": "Google Tag Manager for WordPress",
+                "category": "WordPress plugins"
+              },
+              {
+                "name": "Amazon S3",
+                "category": "CDN"
+              },
+              {
+                "name": "Microsoft Clarity",
+                "category": "Analytics"
+              },
+              {
+                "name": "KaTeX",
+                "category": "JavaScript graphics"
+              },
+              {
+                "name": "Sentry",
+                "category": "Issue trackers"
+              },
+              {
+                "name": "PostHog",
+                "category": "Analytics"
+              },
+              {
+                "name": "Vite",
+                "category": "Miscellaneous"
+              },
+              {
+                "name": "WordPress.com",
+                "category": "PaaS"
+              },
+              {
+                "name": "Google Tag Manager",
+                "category": "Tag managers"
+              },
+              {
+                "name": "Nginx",
+                "category": "Reverse proxies"
+              },
+              {
+                "name": "Lightbox",
+                "category": "JavaScript libraries"
+              },
+              {
+                "name": "Amazon Web Services",
+                "category": "PaaS"
+              },
+              {
+                "name": "Next.js",
+                "category": "JavaScript frameworks"
+              },
+              {
+                "name": "Facebook Pixel",
+                "category": "Analytics"
+              },
+              {
+                "name": "GSAP",
+                "category": "JavaScript frameworks"
+              },
+              {
+                "name": "Lucide",
+                "category": "Font scripts"
+              },
+              {
+                "name": "core-js",
+                "category": "JavaScript libraries"
+              },
+              {
+                "name": "React",
+                "category": "JavaScript frameworks"
+              },
+              {
+                "name": "Ubuntu",
+                "category": "Operating systems"
+              },
+              {
+                "name": "cdnjs",
+                "category": "CDN"
+              },
+              {
+                "name": "Gatsby",
+                "category": "JavaScript frameworks"
+              },
+              {
+                "name": "jsDelivr",
+                "category": "CDN"
+              },
+              {
+                "name": "Svelte",
+                "category": "JavaScript frameworks"
+              },
+              {
+                "name": "Mintlify",
+                "category": "Documentation"
+              },
+              {
+                "name": "Google Font API",
+                "category": "Font scripts"
+              },
+              {
+                "name": "Vercel",
+                "category": "PaaS"
+              },
+              {
+                "name": "RSS",
+                "category": "Miscellaneous"
+              },
+              {
+                "name": "PayPal",
+                "category": "Payment processors"
+              },
+              {
+                "name": "Lodash",
+                "category": "JavaScript libraries"
+              },
+              {
+                "name": "Contact Form 7",
+                "category": "Form builders"
+              },
+              {
+                "name": "Font Awesome",
+                "category": "Font scripts"
+              },
+              {
+                "name": "Open Graph",
+                "category": "Miscellaneous"
+              },
+              {
+                "name": "Amazon CloudFront",
+                "category": "CDN"
+              },
+              {
+                "name": "Webpack",
+                "category": "Miscellaneous"
+              },
+              {
+                "name": "Cart Functionality",
+                "category": "Ecommerce"
+              },
+              {
+                "name": "Quora Pixel",
+                "category": "Analytics"
+              },
+              {
+                "name": "LazySizes",
+                "category": "JavaScript libraries"
+              },
+              {
+                "name": "Priority Hints",
+                "category": "Performance"
+              }
+            ]
+          },
+          "job_postings": {
+            "active_count": 18,
+            "active_titles": [
+              "security engineer-2",
+              "data scientist-2",
+              "devops engineer-4",
+              "senior manager - emerging business",
+              "software engineering manager",
+              "associate / senior associate inbound sales",
+              "customization/senior customization developer - business engineering",
+              "software development lead",
+              "soc analyst ii",
+              "sde-3",
+              "customer success associate",
+              "senior manager - partnership (secure id)",
+              "manager - growth & strategy (secure id)",
+              "solution architech - business engineering",
+              "devops engineer 4",
+              "assistant manager / manager emerging business",
+              "associate manager - emerging business (farming)",
+              "senior manager - fraud risk strategy"
+            ]
+          }
+        }
+      }
+    },
+    "resolvedEmail": {
+      "email": "parveen.kumar@cashfree.com",
+      "verification": "mocked",
+      "source": "fallback"
+    }
+  }
+]
